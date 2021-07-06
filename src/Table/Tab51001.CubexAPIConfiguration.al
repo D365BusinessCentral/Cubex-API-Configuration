@@ -2,7 +2,6 @@ table 51001 "Cubex API Configuration"
 {
     Caption = 'Cubex API Configuration';
     DataClassification = CustomerContent;
-
     fields
     {
         field(1; "Primary Key"; Code[10])
